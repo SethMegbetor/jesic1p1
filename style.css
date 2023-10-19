@@ -1,5 +1,22 @@
-
 /* External CSS */
-h1{
+h1 {
   font-size: 80px;
+  color: blue;
+}
+
+li{
+  color: red;
+}
+
+.about-me{
+  color: green;
+}
+
+.heading-1{
+  text-decoration: underline;
+}
+
+img{
+  height: 200px;
+  width: 200px;
 }
